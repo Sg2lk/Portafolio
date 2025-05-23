@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "specifiers": {
+    "jsr:@std/dotenv@*": "0.225.3"
+  },
+  "jsr": {
+    "@std/dotenv@0.225.3": {
+      "integrity": "a95e5b812c27b0854c52acbae215856d9cce9d4bbf774d938c51d212711e8d4a"
+    }
+  },
+  "remote": {
+    "https://deno.land/std@0.203.0/dotenv/mod.ts": "1da8c6d0e7f7d8a5c2b19400b763bc11739df24acec235dda7ea2cfd3d300057",
+    "https://www.gstatic.com/firebasejs/10.11.0/firebase-app.js": "f4a24c142809dd31b40f6c2bc7ac064d370ec3ce84696ce9426f9597de16d0d7",
+    "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js": "6cf917206f4da022ef68d66b94ccd41cd253adc6bc84b5a2e4ea0cbde45e7046",
+    "https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js": "531bac221fb729cadb54bfddfb901c5f00c5614fe2f2cdfd9b632c9c03a7f329",
+    "https://www.gstatic.com/firebasejs/11.8.0/firebase-app.js": "3ca4ad4563e208bba8c0d5d2af1e91b0b9994909bdf27f06b71b13503f4f8b17",
+    "https://www.gstatic.com/firebasejs/11.8.0/firebase-database.js": "d8483141fc702f112688f6b01458e1ae8943b29e717a6696b6d9be17cd6aaf33"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:dotenv@^16.5.0",
+        "npm:firebase@^11.8.0"
+      ]
+    }
+  }
+}
