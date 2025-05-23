@@ -20,6 +20,7 @@ Este proyecto es un portafolio web profesional para mostrar mis habilidades téc
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
+- Firebase
 - Font Awesome (iconos)
 - Google Fonts (tipografías)
 - Lottie.js (animaciones)
@@ -33,15 +34,8 @@ Este proyecto es un portafolio web profesional para mostrar mis habilidades téc
 - Modo oscuro que se puede alternar con un botón.
 - Sección de habilidades técnicas con niveles (Beginner, Intermediate, Advanced).
 - Proyectos con enlaces a GitHub, imágenes y detalles.
-- Formulario de contacto con validación.
+- Formulario de contacto con validación y almacenamiento con RealTimeDatabase.
 - Función para copiar el correo electrónico al portapapeles con notificación.
 - Diseño responsivo y limpio.
 
 ---
-
-## Instalación y uso
-
-1. Clona este repositorio:
-
-   ```bash
-   git clone https://github.com/tuusuario/tu-repositorio.git
