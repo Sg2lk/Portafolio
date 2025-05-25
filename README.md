@@ -1,5 +1,4 @@
-# Portafolio de Johan Alexander Pulupa Romero
-
+# Portafolio Profesional
 ## Descripción
 
 Este proyecto es un portafolio web profesional para mostrar mis habilidades técnicas, proyectos destacados y datos de contacto. Está desarrollado con HTML, CSS y JavaScript, con un diseño moderno y responsivo que incluye modo oscuro y animaciones.
